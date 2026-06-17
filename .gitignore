@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local test artifacts
+_test*
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

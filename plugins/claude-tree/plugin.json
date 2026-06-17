@@ -1,0 +1,12 @@
+{
+  "name": "claude-tree",
+  "version": "0.1.0",
+  "description": "Generate a visual directory tree and optionally save it to a text, markdown, or Word (.docx) file. Adds a /tree command and an optional Windows scheduled-task helper for keeping a folder index auto-refreshed.",
+  "author": {
+    "name": "Robinson & Associates",
+    "url": "https://github.com/robinsonassc"
+  },
+  "homepage": "https://github.com/robinsonassc/claude-tree",
+  "license": "MIT",
+  "keywords": ["directory", "tree", "folder", "structure", "index", "docx", "markdown"]
+}
